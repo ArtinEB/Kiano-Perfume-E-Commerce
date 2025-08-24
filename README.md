@@ -1,6 +1,6 @@
 # Kiano Perfume - E-commerce & Business Platform
 
-![Kiano Perfume Banner](assets/Image-1.png)
+![Kiano Perfume Banner](assets/Image-1.jpg)
 
 ## [Production Website](https://www.kianoperfume.com/)
 
@@ -19,9 +19,9 @@ Kiano Perfume is a cutting-edge e-commerce and B2B platform specializing in prem
   <summary>Click here to see the Overview Images</summary>
   <br>
   <p align="center">
-    <img src="./assets/Image-1.png" width="48%">
-    <img src="./assets/Image-2.png" width="48%">
-    <img src="./assets/Image-3.png" width="48%">
+    <img src="./assets/Image-1.jpg" width="48%">
+    <img src="./assets/Image-2.jpg" width="48%">
+    <img src="./assets/Image-3.jpg" width="48%">
   </p>
 </details>
 
